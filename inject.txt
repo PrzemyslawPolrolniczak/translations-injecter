@@ -1,0 +1,404 @@
+
+EN
+
+FR
+
+IT
+
+ES
+
+DE
+
+Already have an account?
+
+Vous avez déjà un compte ?
+
+Hai già un conto?
+
+¿Ya tiene una cuenta?
+
+Haben Sie bereits ein Konto?
+
+Australian Dollar
+
+Dollar australien
+
+Dollaro australiano
+
+Dólar australiano
+
+Australischer Dollar
+
+Back to Log In
+
+Retour à Connexion
+
+Torna a Accedi
+
+Volver al inicio de sesión
+
+Zurück zur Anmeldung
+
+Canadian Dollar
+
+Dollar canadien
+
+Dollaro canadese
+
+Dólar canadiense
+
+Kanadischer Dollar
+
+Change Password
+
+Modifier le mot de passe
+
+Cambiare la password
+
+Cambiar contraseña
+
+Passwort ändern
+
+Confirm Password
+
+Confirmer le mot de passe
+
+Conferma password
+
+Confirmar contraseña
+
+Passwort bestätigen
+
+Create a Free Account
+
+Créer un compte gratuit
+
+Creare un account gratis
+
+Crear una cuenta gratuita
+
+Erstellen Sie ein kostenloses Konto
+
+Create one
+
+Créer un compte
+
+Creare un account
+
+Crear una cuenta
+
+Erstellen Sie ein Konto
+
+Current Password
+
+Mot de passe actuel
+
+password attuale
+
+Contraseña actual
+
+Aktuelles Passwort
+
+Don't have an account?
+
+Vous n'avez pas de compte ?
+
+Non hai un conto?
+
+¿No tiene una cuenta?
+
+Sie haben noch kein Konto?
+
+Enter your email address and we will send you instructions to update your password.
+
+Saisissez votre adresse e-mail et nous vous enverrons les instructions pour modifier votre mot de passe.
+
+Inserisci il tuo indirizzo email e ti invieremo le istruzioni per aggiornare la tua password.
+
+Introduzca su dirección de correo electrónico y le enviaremos instrucciones para actualizar su contraseña.
+
+Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen zur Aktualisierung Ihres Passworts.
+
+Euro
+
+Euro
+
+Euro
+
+Euro
+
+Euro
+
+Forgot my password
+
+Mot de passe oublié
+
+
+
+Ho dimenticato la mia password
+
+He olvidado mi contraseña
+
+Ich habe mein Passwort vergessen
+
+I have read and agree to the <0>Terms & Conditions</0> and <1>Privacy Policy</1>.
+
+J'ai lu et accepte les <0>Conditions générales d'utilisation</0> et la <1>Politique de confidentialité</1>.
+
+Ho letto e accetto i <0>Termini e condizioni</0> e l'<1>Informativa sulla privacy</1>.
+
+He leído y acepto los <0>Términos y condiciones</0> y la <1>Política de confidencialidad</1>.
+
+Ich habe die <0>Allgemeinen Geschäftsbedingungen</0> und die <1>Datenschutzpolitik</1> gelesen und bin damit einverstanden.
+
+If you haven’t received an email from us, please click the button below and we’ll send you another one!
+
+Si vous n'avez pas reçu notre e-mail, veuillez cliquez sur le bouton ci-dessous et nous vous en enverrons un autre.
+
+Se non hai ricevuto una nostra email, fai clic sul pulsante in basso e te ne invieremo un'altra!
+
+Si usted no ha recibido nuestro correo electrónico, por favor haga clic en el botón de abajo y le enviaremos otro.
+
+Wenn Sie keine E-Mail von uns erhalten haben, klicken Sie bitte auf die Schaltfläche unten und wir senden Ihnen eine weitere!
+
+Info
+
+Information
+
+Informazione
+
+Información
+
+Informationen
+
+Log In
+
+Connexion
+
+Accedi
+
+Iniciar sesión
+
+Anmelden
+
+Log Out
+
+Déconnexion
+
+Esci
+
+Cerrar sesión
+
+Abmelden
+
+Minimum 6 characters (for a strong password include letters, numbers, and symbols)
+
+6 caractères minimum (pour un mot de passe robuste, incluez des lettres, chiffres et symboles)
+
+Minimo 6 caratteri (per una password complessa includere lettere, numeri e simboli)
+
+Mínimo 6 caracteres (para una contraseña segura incluya letras, números y símbolos)
+
+Mindestens 6 Zeichen (für ein sicheres Passwort nutzen Sie Buchstaben, Zahlen und Symbole)
+
+New Password
+
+Nouveau mot de passe
+
+Nuova password
+
+Contraseña nueva
+
+Neues Passwort
+
+No account?
+
+Pas de compte ?
+
+Nessun conto?
+
+¿No tiene cuenta?
+
+Kein Konto?
+
+Passwords must match
+
+Les mots de passe doivent correspondre
+
+Le password devono essere identiche
+
+Las contraseñas deben coincidir
+
+Die Passwörter müssen übereinstimmen
+
+Please Verify Your Email
+
+Veuillez vérifier votre adresse e-mail
+
+Verifica la tua email
+
+Por favor verifique su correo electrónico
+
+Bitte bestätigen Sie Ihre E-Mail-Adresse
+
+Pound Sterling
+
+Livre sterling
+
+Lira sterlina
+
+Libra esterlina
+
+Pfund Sterling
+
+Re-send Verification Email
+
+Renvoyer l'e-mail de vérification d'adresse mail
+
+Invia nuovamente email di verifica
+
+Volver a enviar el correo electrónico de verificación
+
+Bestätigungs-E-Mail erneut senden
+
+Reset My Password
+
+Réinitialiser mon mot de passe
+
+Reimposta la mia password
+
+Restablecer mi contraseña
+
+Mein Passwort zurücksetzen
+
+Reset Password
+
+Réinitialiser le mot de passe
+
+Resetta la password
+
+Restablecer contraseña
+
+Passwort zurücksetzen
+
+Send me emails from Lulu, including exclusive offers, newsletters, promotions, and other notifications.
+
+Envoyez-moi des e-mails de Lulu, y compris des offres exclusives, newsletters, promotions et autres notifications.
+
+Inviami email da Lulu, incluse offerte esclusive, newsletter, promozioni e altre notifiche.
+
+Envíenme correos electrónicos de Lulu, incluyendo ofertas exclusivas, boletines, promociones y otras notificaciones.
+
+Senden Sie mir E-Mails von Lulu, einschließlich exklusiver Angebote, Newsletter, Werbeaktionen und anderer Benachrichtigungen.
+
+Sign Up
+
+S'inscrire
+
+Registrati
+
+Regístrese
+
+Registrieren
+
+This is a required field
+
+Champ obligatoire
+
+Campo obbligatorio
+
+Campo obligatorio
+
+Dies ist ein Pflichtfeld
+
+This is the currency you will use to pay for any purchases made using your Lulu account. Once selected, your currency cannot be changed.
+
+
+
+C'est la devise que vous utiliserez pour payer tous les achats effectués avec votre compte Lulu. Une fois sélectionnée, votre devise ne peut plus être modifiée.
+
+Questa è la valuta che utilizzerai per pagare tutti gli acquisti effettuati utilizzando il tuo account Lulu. Una volta selezionata, la valuta non può essere modificata.
+
+Esta es la moneda que usted utilizará para pagar cualquier compra realizada con su cuenta de Lulu. Una vez seleccionada, su moneda no se puede cambiar.
+
+Dies ist die Währung, mit der Sie alle Einkäufe bezahlen, die Sie über Ihr Lulu-Konto tätigen. Sobald Sie Ihre Währung ausgewählt haben, kann sie nicht mehr geändert werden.
+
+United States Dollar
+
+Dollar des États-Unis
+
+Dollar statunitense
+
+Dólar estadounidense
+
+US-Dollar
+
+Update Account
+
+Mise à jour du compte
+
+Aggiornamento dell'account
+
+Actualizar cuenta
+
+Konto aktualisieren
+
+Update My Account
+
+Mise à jour de mon compte
+
+Aggiornamento del mio account
+
+Actualizar mi cuenta
+
+Mein Konto aktualisieren
+
+Update My Password
+
+Mise à jour de mon mot de passe
+
+Aggiornamento della mia password
+
+Actualizar mi contraseña
+
+Mein Passwort aktualisieren
+
+Update Password
+
+Mise à jour du mot de passe
+
+Aggiornamento della password
+
+Actualizar contraseña
+
+Passwort aktualisieren
+
+Verify Email
+
+Vérifier l'adresse e-mail
+
+Verificare l'indirizzo e-mail
+
+Verificar correo electrónico
+
+E-Mail-Adresse bestätigen
+
+We need to confirm the email you provided before we can activate your account. We just sent you an email with a link to confirm and activate your account.
+
+Nous devons confirmer l'adresse e-mail que vous avez fourni avant d'activer votre compte. Nous venons de vous envoyer un e-mail avec un lien pour confirmer et activer votre compte.
+
+Abbiamo bisogno di confermare l'e-mail fornita prima di poter attivare l'account. Le abbiamo appena inviato un'e-mail con un link per confermare e attivare il suo account.
+
+Necesitamos confirmar la dirección de correo electrónico que usted nos ha facilitado para poder activar su cuenta. Acabamos de enviarle un correo electrónico con un enlace para confirmar y activar su cuenta.
+
+Bevor wir Ihr Konto aktivieren können, müssen wir die von Ihnen angegebene E-Mail-Adresse überprüfen. Wir haben Ihnen gerade eine E-Mail mit einem Link zur Bestätigung und Aktivierung Ihres Kontos gesendet.
+
+Welcome Back!
+
+Bienvenue !
+
+Bentornato!
+
+¡Bienvenido(a) de nuevo!
+
+Willkommen zurück!
